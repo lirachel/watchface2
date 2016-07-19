@@ -1,0 +1,31 @@
+{
+    "author": "rachel.li.325@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "minimal-watchface-w-battery-icon",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "minimal watchface w battery icon",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/battery icon.png",
+                    "name": "BATTERY_ICON",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "uuid": "1026a1f4-191f-4f23-8e70-7b917e2e869b",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
